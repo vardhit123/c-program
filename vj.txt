@@ -1,0 +1,7 @@
+typical c program developement enviroment-:
+phase 1: programmer creats the program in the editor so, he can edit the program if necessary.
+phase 2: when we start the program with the hash (#) this will activate the preprocesser and preprocesser is used to process the code and it is save as extension (.i).
+phase 3: compiler is used to send the code to the assembler with extension .c which is used to convert in object code with the extension .o
+phase 4: linker is used to link all those files which is genereated by the compiler and assembler 
+phase 5: loader is use to load or add those program into the memory which is used to be executed.
+phase 6: cpu is used to take all instructions from the memory and is used to executed the program.
