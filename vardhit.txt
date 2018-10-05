@@ -1,0 +1,6 @@
+You can divide up your code into separate functions. How you divide up your code among different functions is up to you, but logically the division is such that each function performs a specific task.
+
+A function declaration tells the compiler about a function's name, return type, and parameters. A function definition provides the actual body of the function.
+Some functions perform the desired operations without returning a value. In this case, the return_type is the keyword void.
+A function declaration tells the compiler about a function name and how to call the function. The actual body of the function can be defined separately.
+A function declaration tells the compiler about a function name and how to call the function. The actual body of the function can be defined separately.
